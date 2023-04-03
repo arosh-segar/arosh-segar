@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arosh</h1>
-<h3 align="center">I'm a highly skilled software engineer with almost 2 years of experience developing innovative software solutions. With a strong background in Node js frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosh-segar&label=Profile%20views&color=0e75b6&style=flat" alt="arosh-segar" /> </p>
 
